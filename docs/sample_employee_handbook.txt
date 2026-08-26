@@ -1,0 +1,67 @@
+Employee Handbook (Sample)
+
+Company Information
+
+Company: ABC Technologies Pvt. Ltd. Location: Bengaluru, India
+
+Working Hours
+
+-   Office hours are 9:00 AM to 6:00 PM, Monday through Friday.
+-   Employees are expected to complete 40 working hours per week.
+-   Flexible work hours are allowed with manager approval.
+
+Leave Policy
+
+-   Employees receive 24 paid leave days per year.
+-   Casual Leave: 12 days.
+-   Sick Leave: 12 days.
+-   Unused casual leave cannot be carried forward.
+-   Leave requests should be submitted at least 3 days in advance.
+
+Travel Policy
+
+-   Domestic travel requires manager approval.
+-   International travel requires approval from both the Department Head
+    and HR.
+-   Economy class should be booked for domestic travel.
+-   Business class is permitted only for flights longer than 8 hours
+    with executive approval.
+
+Password Policy
+
+-   Passwords must contain at least 12 characters.
+-   Passwords must include uppercase letters, lowercase letters,
+    numbers, and special characters.
+-   Passwords should be changed every 90 days.
+-   Password sharing is strictly prohibited.
+
+IT Security
+
+-   Multi-factor authentication (MFA) is mandatory.
+-   Company laptops must use encrypted storage.
+-   USB devices are disabled unless approved by IT.
+
+Expense Reimbursement
+
+-   Travel expenses must be submitted within 15 days.
+-   Original receipts are mandatory.
+-   Finance processes reimbursements within 10 business days.
+
+Remote Work
+
+-   Employees may work remotely up to 3 days per week with manager
+    approval.
+-   A stable internet connection is required.
+
+Frequently Asked Questions
+
+Q: How many paid leave days do employees receive? A: Employees receive
+24 paid leave days per year.
+
+Q: Who approves international travel? A: The Department Head and HR must
+approve international travel.
+
+Q: How often should passwords be changed? A: Every 90 days.
+
+Q: When should expense claims be submitted? A: Within 15 days after
+completing the travel.
