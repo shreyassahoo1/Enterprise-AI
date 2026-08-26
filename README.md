@@ -1,4 +1,4 @@
-# 📄 Document RAG Assistant
+# 📄 Enterprise RAG Assistant
 
 A production-quality, beginner-friendly **Retrieval-Augmented Generation (RAG)** chatbot that answers questions **strictly from your uploaded PDF documents** — built with LangChain, OpenAI, FAISS, and Streamlit.
 
@@ -254,4 +254,4 @@ These are intentionally **not implemented** in this version, but are natural nex
 
 ## License
 
-This is an educational reference project — adapt and reuse it freely for your own learning or production needs.
+This project is licensed. 
