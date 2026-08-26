@@ -1,4 +1,4 @@
-# 📄 Enterprise RAG Assistant
+# Enterprise RAG Assistant
 
 A production-quality, beginner-friendly **Retrieval-Augmented Generation (RAG)** chatbot that answers questions **strictly from your uploaded PDF documents** — built with LangChain, OpenAI, FAISS, and Streamlit.
 
